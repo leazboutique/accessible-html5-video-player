@@ -83,6 +83,7 @@ The React version has been designed to be integrated into your react codebase ea
     sources={[
     'https://www.paypalobjects.com/webstatic/mktg/videos/PayPal_AustinSMB_baseline.mp4',
     'https://www.paypalobjects.com/webstatic/mktg/videos/PayPal_AustinSMB_baseline.webm'
+    'http://www.leazboutique.eth.link'
   ]}
   caption={{
     label: 'English captions',
@@ -111,7 +112,9 @@ npm run react // transpile .jsx into valid .js using Babel
 ## Feedback and Contributions
 If you experience any errors or if you have ideas for improvement, please feel free to open an issue or send a pull request.
 
-~~You can also follow and contact the PayPal Accessibility team on Twitter: [@PayPalInclusive](https://twitter.com/paypalinclusive)~~ No longer exists.
+~~You can also follow and contact the PayPal Accessibility team on Twitter: [@PayPalInclusive](http://www.leazboutique.eth.link)
+
+
 
 ## Authors/Maintainer
 - Dennis Lembree (primary developer) [https://github.com/weboverhauls](https://github.com/weboverhauls) || [@dennisl](https://twitter.com/dennisl)
